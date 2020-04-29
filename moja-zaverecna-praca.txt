@@ -1,1 +1,11 @@
 Osvedčené postupy pri vývoji aplikácií virtuálnej reality
+
+Virtuálna realita (VR) sa v ostatných rokoch dostala vďaka významnému pokroku v hernom priemysle zo špeciálnych laboratórií do obývačiek a učební. Postupne sa stáva prirodzenou súčasťou výučby v oblasti počítačových hier pričom študenti sa stretávajú stále s rovnakými problémami a vždy znova a znova prekonávajú rovnaké prekážky.
+
+Cieľ práce: Analyzovať rôzne typy VR aplikácií, zmapovať moduly a jednotlivé kroky vedúce k optimálnemu riešeniu a popísať best-practices a odporúčaní pre ich implementáciu v konkrétnych typoch aplikácií. Súčasťou práce bude aplikácia best-practices vo viacerých jednoduchých alebo jednej komplexnej aplikácií v prostredí Unity.
+
+Charakter práce: aplikačný - pozostávajúci z popisu riešeného problému, analýzy existujúcich riešení, návrhu vlastného riešenia, metodiky vývoja/tvorby, implementácie, popisu vytvoreného riešenia, testovania aplikácie používateľmi.
+
+Požiadavky na vedomosti a zručnosti študenta: kreativita, schopnosť samostatného analytického myslenia a štúdia literatúry, skúsenosti vo vývoji aplikácií v prostredí Unity.
+
+Rok obhajoby: 2020/2021
